@@ -1,0 +1,7 @@
+@import url('./global/boilerplate.css');
+@import url('./global/layout.css');
+@import url('./components/home.css');
+@import url('./components/about.css');
+@import url('./components/contact.css');
+@import url('./components/donation.css');
+@import url('./components/blog.css');
